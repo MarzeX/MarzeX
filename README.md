@@ -21,7 +21,7 @@
 <p dir="auto"><br></p>
 
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UChOccFRfJ-61YKk8sInJV6Q"><img src="https://raw.githubusercontent.com/MarzeX/MarzeX/Markyx/Marze-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UChOccFRfJ-61YKk8sInJV6Q"><img src="https://github.com/MarzeX/MarzeX/blob/Markyx/Marze-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
 
 <!--
 **MarzeX/MarzeX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
