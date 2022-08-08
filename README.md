@@ -1,6 +1,6 @@
 
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/94861415/163727117-25549b74-257d-4203-bac6-6618db83b52f.png"><img src="https://user-images.githubusercontent.com/94861415/163727117-25549b74-257d-4203-bac6-6618db83b52f.png" alt="SARNAX_copy" style="max-width: 100%;"></a></p>
+
 
 
 <img src="https://camo.githubusercontent.com/da8b188827c93661b4c2a87df1fea80de0bfd1749777cf3b1a8d9b2649aacf76/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d72796f2d6d6126636f6c756d6e3d38266d617267696e2d773d3230266d617267696e2d683d30266e6f2d62673d74727565266e6f2d6672616d653d74727565267468656d653d746f6b796f6e69676874" alt="𝚝𝚛𝚘𝚙𝚑𝚢" data-canonical-src="https://github-profile-trophy.vercel.app/?username=ryo-ma&amp;column=8&amp;margin-w=20&amp;margin-h=0&amp;no-bg=true&amp;no-frame=true&amp;theme=tokyonight" style="max-width: 100%;">
